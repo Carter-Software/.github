@@ -6,15 +6,15 @@ Carter Software is a software development company dedicated to helping businesse
 
 Our expertise spans:
 
-🌐 Web Development – Responsive, modern, and secure websites & apps
+  🌐 Web Development – Responsive, modern, and secure websites & apps
 
-📱 Mobile Development – Cross-platform apps built with .NET MAUI, Xamarin, and React Native
+  📱 Mobile Development – Cross-platform apps built with .NET MAUI, Xamarin, and React Native
 
-🖥 Desktop Applications – Robust and efficient desktop software
+  🖥 Desktop Applications – Robust and efficient desktop software
 
-🔗 API Development – Lightweight and scalable APIs to power your products
+  🔗 API Development – Lightweight and scalable APIs to power your products
 
-🎨 UI/UX Design – Human-centered, intuitive, and engaging interfaces
+  🎨 UI/UX Design – Human-centered, intuitive, and engaging interfaces
 
 We believe in rapid delivery, transparent collaboration, and empowering our clients with full code ownership to evolve their products as they grow.
 
